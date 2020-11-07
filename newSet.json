@@ -1,0 +1,71 @@
+[{
+		"Song Number": 1,
+		"Title": "Ain't No Sunshine",
+		"Artist": "Bill Withers",
+		"Genre": ["Soul", "R&B"],
+		"Released": 1971
+	},
+	{
+		"Song Number": 2,
+		"Title": "Goodbye Yellow Brick Road",
+		"Artist": "Elton John",
+		"Genre": ["Rock", "Pop"],
+		"Released": 1973
+	},
+	{
+		"Song Number": 3,
+		"Title": "Happy Together",
+		"Artist": "Turtles",
+		"Genre": ["Rock", "Pop"],
+		"Released": 1967
+	},
+	{
+		"Song Number": 4,
+		"Title": "Help",
+		"Artist": "The Beatles",
+		"Genre": ["Rock"],
+		"Released": 1965
+	},
+	{
+		"Song Number": 5,
+		"Title": "I Just Called To Say I Love You",
+		"Artist": "Stevie Wonder",
+		"Genre": ["Soul", "Pop"],
+		"Released": 1984
+	},
+	{
+		"Song Number": 6,
+		"Title": "September",
+		"Artist": "Earth, Wind and Fire",
+		"Genre": ["Disco"],
+		"Released": 1978
+	},
+	{
+		"Song Number": 7,
+		"Title": "Do You Believe in Magic",
+		"Artist": "The Lovin' Spoonful",
+		"Genre": ["Rock"],
+		"Released": 1965
+	},
+	{
+		"Song Number": 8,
+		"Title": "Time of the Season",
+		"Artist": "Zombies",
+		"Genre": ["Rock"],
+		"Released": 1968
+	},
+	{
+		"Song Number": 9,
+		"Title": "Sunny Afternoon",
+		"Artist": "The Kinks",
+		"Genre": ["Rock"],
+		"Released": 1966
+	},
+	{
+		"Song Number": 10,
+		"Title": "Smooth",
+		"Artist": "Santana",
+		"Genre": ["Rock", "Pop"],
+		"Released": 1999
+	}
+]
